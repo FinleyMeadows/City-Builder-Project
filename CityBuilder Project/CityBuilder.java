@@ -8,5 +8,6 @@ public class CityBuilder {
    public static void main(String[] args) {
       // creates the frame and everything necessary in it
       CityFrame frame = new CityFrame();
+      // hehehehe
    }
 }
